@@ -1,6 +1,6 @@
 <?
 
-	echo "olá mundo";
+	echo "hello world";
 
 
 
